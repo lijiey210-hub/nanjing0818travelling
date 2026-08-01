@@ -1,0 +1,8 @@
+{
+  "name": "Remix 南京四日游 - 金陵漫步与民国风情旅行指南",
+  "description": "四天三晚南京深度游全景导览网站，包含18日-21日详细行程时间表、路线地图、景点导览、美食推荐与民国风情特色体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
